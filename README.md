@@ -25,7 +25,7 @@ const skmirajulislam = {
                         member: "GDSC kolkata",
                         mentor: "Pbca-edu-Tech"
                    },
- challenge: "I am doing the #100 DaysOfCode challenge focused on react and Python"
+ challenge: "I am doing the #100 DaysOfCode challenge focused on Python"
 }
 ```
 
