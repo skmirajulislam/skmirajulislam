@@ -20,12 +20,12 @@
 const skmirajulislam = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java, C, ML],
-  tools: [React, Node, Styled-Components, Docker, Git],
+  tools: [React JS, Node Js, Express JS, Docker, Git],
   techCommunities: {
-                        member: "GDSC kolkata",
-                        mentor: "Pbca-edu-Tech"
+                        member: "Kaggle, Google Developer Kolkata",
+                        mentor: "Fiver"
                    },
- challenge: "I am doing the #100 DaysOfCode challenge focused on Python"
+ status: "I am learning ML and Deep Learning Technologies"
 }
 ```
 
