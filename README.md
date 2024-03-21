@@ -3,7 +3,7 @@
 <p>
   <em>
      Frontend developer at 
-    <a href="https://kraftpixel.com">Kraft Pixel</a>
+    <a href="https://octanet.in">Octanet pvt ltd</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Technical Assistant at 
     <a href="https://www.codingninjas.com">Coding Ninjas</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
