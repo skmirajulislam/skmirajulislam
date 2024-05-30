@@ -3,7 +3,7 @@
 <p>
   <em>
      Frontend developer at 
-    <a href="https://octanet.in">Octanet pvt ltd</a>
+    <a href="https://octanet.in">Tripro</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Technical Assistant at 
     <a href="https://www.codingninjas.com">Coding Ninjas</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -22,13 +22,13 @@ const skmirajulislam = {
   code: [Javascript, HTML, CSS, Python, Java, C, ML],
   tools: [React JS, Node Js, Express JS, Docker, Git],
   techCommunities: {
-                        member: "Kaggle, Google Developer Kolkata",
+                        member: "Google Developer Kolkata",
                         mentor: "Fiver"
                    },
- status: "I am learning ML and Deep Learning Technologies"
+ status: "Indeed we belong to Allah, and indeed to him we will return."
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Alhamdulillah, I love connecting with different people. </br> If you want to say salam, I'll be happy to meet you, Insha'Allah! </b> :) </em>
 
 ---
