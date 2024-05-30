@@ -1,5 +1,5 @@
 <h2> Hi, I'm Sk Mirajul Islam <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/jPMRcRfyQ0Zl3ZMcbH/giphy.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/4c/16/90/4c1690fdb622fab5e6348f560ce1e6f6.gif" width="230">
 <p>
   <em>
      Frontend developer at 
