@@ -25,7 +25,7 @@ const skmirajulislam = {
                         member: "Google Developer Kolkata",
                         mentor: "Fiver"
                    },
- status: "Indeed we belong to Allah, and indeed to him we will return."
+ status: "Working on Devops"
 }
 ```
 
