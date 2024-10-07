@@ -10,6 +10,10 @@
         <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20"
             alt="Sk Mirajul GitHub" height='20' width='80' />
     </a>
+        <a href="mailto:skmirajulislam181@gmail.com">
+                <img src="https://img.shields.io/static/v1?message=Email&style=for-the-badge&logo=Email&&logoColor=white&color=orange&label=%20"
+            alt="Sk Mirajul GitHub" height='20' width='80' />
+        </a>
 </p>
 
 <div align="center" width="50%">
