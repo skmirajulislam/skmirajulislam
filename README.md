@@ -179,7 +179,7 @@
         <img align="center" src="https://www.google.com/favicon.ico" alt="Google Developer Profile" height="40"
             width="40" />
     </a>
-    <a href="https://www.hackerrank.com/profile/ananya30g" target="_blank">
+    <a href="https://leetcode.com/u/SkMiraj/" target="_blank">
         <img align="center" src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Leetcode Profile"
             height="50" width="50" />
     </a>
