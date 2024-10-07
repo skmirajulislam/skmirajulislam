@@ -157,12 +157,7 @@
         </tr>
     </table>
 </div>
-
 <br>
-
-
-
-
 <!-- Connect with Me Section -->
 <h2 style="text-align: center;">- : Connect with Me : -</h2>
 
@@ -172,30 +167,24 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="LinkedIn Profile" height="40" width="40" />
     </a>
-
     <a href="https://github.com/skmirajulislam" target="_blank">
         <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
             alt="GitHub Profile" height="40" width="40" />
     </a>
-
     <a href="https://www.cloudskillsboost.google/public_profiles/a023a8b5-c45d-43b6-9f10-446de607900b" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
             alt="Sk Mirajul Islam Skill Boost Google Profile" height="40" width="40" />
     </a>
-
     <a href="https://g.dev/SkMiraj" target="_blank">
         <img align="center" src="https://www.google.com/favicon.ico" alt="Google Developer Profile" height="40"
             width="40" />
     </a>
-
     <a href="https://www.hackerrank.com/profile/ananya30g" target="_blank">
         <img align="center" src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Leetcode Profile"
             height="50" width="50" />
     </a>
-
     <a href="https://holopin.io/@skmirajulislam">
         <img src="https://holopin.me/@skmirajulislam" alt="@@skmirajulislam Holopin board"
             style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 5px;" />
     </a>
-
 </div>
