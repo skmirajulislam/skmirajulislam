@@ -188,7 +188,7 @@
             height="50" width="50" />
     </a>
     <a href="https://holopin.io/@skmirajulislam">
-        <img src="https://holopin.me/@skmirajulislam" alt="@@skmirajulislam Holopin board"
+        <img src="https://holopin.me/skmirajulislam" alt="@@skmirajulislam Holopin board"
             style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 5px;" />
     </a>
 </div>
