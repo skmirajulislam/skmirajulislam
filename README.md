@@ -23,8 +23,7 @@
     <br>
     <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
     <!-- Streak feature -->
-    <p><a href="https://git.io/streak-stats"><img
-            src="https://github-readme-streak-stats.herokuapp.com?user=skmirajulislam&theme=dark" alt="GitHub Streak" /></a></p>
+    
 </div>
 
 <div align="center">
