@@ -99,7 +99,7 @@
                 <br>
                 <span style="font-size: 12px; color: #777777;">
                     I am one of 200 mentors among 30,000+ participants in GSSOC.<br>
-                    PRs Merged: 30+<br>
+                    PRs Merged: 100+<br>
                     Total Badges: 4<br>
                     Total Score: 2000<br>
                 </span>
