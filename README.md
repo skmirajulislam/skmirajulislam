@@ -39,12 +39,7 @@
         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skmirajulislam&theme=github_dark&utcOffset=8" />
 </div>
 
-<br>
-<div align="center">
-    <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=skmirajulislam&theme=darkhub&column=9&margin-w=11"
-        alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
+
 
 <br>
 
